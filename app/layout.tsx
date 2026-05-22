@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Spedingo",
-  description: "Comparatore spediizoni intelligente",
+  title: "Goldenscout",
+  description: "Comparatore intelligente di spedizioni",
 };
 
 export default function RootLayout({
